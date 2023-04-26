@@ -1,2 +1,2 @@
 # Chrome_Dino_game
-![chrome-dinosaur-game](https://user-images.githubusercontent.com/117922914/234645399-21f4d8dc-97cf-465f-9652-f401f2764fda.jpg)
+<img width="1440" alt="Chrome" src="https://user-images.githubusercontent.com/117922914/234647255-49a69186-fc97-4ed3-bb05-402bd778e249.png">
